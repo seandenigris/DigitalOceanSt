@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfDigitalOcean",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfDigitalOcean",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
