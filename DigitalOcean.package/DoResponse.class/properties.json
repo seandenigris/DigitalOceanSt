@@ -1,0 +1,15 @@
+{
+	"category" : "DigitalOcean-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"status",
+		"contents" ],
+	"name" : "DoResponse",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

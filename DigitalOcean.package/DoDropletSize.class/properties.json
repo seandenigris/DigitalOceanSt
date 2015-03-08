@@ -1,0 +1,21 @@
+{
+	"category" : "DigitalOcean-Domain",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SeanDeNigris 4/9/2014 16:57",
+	"instvars" : [
+		"costPerHour",
+		"name",
+		"costPerMonth",
+		"cpu",
+		"slug",
+		"memory",
+		"id",
+		"disk" ],
+	"name" : "DoDropletSize",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

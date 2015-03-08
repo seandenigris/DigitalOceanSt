@@ -1,0 +1,15 @@
+{
+	"category" : "DigitalOcean-Authentication",
+	"classinstvars" : [
+		"current" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SeanDeNigris 4/9/2014 14:04",
+	"instvars" : [
+		"clientID",
+		"apiKey" ],
+	"name" : "DoCredentials",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,20 @@
+{
+	"category" : "DigitalOcean-Domain",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"public",
+		"regions",
+		"name",
+		"regionSlugs",
+		"slug",
+		"distribution",
+		"id" ],
+	"name" : "DoImage",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "DigitalOcean-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"returnsArray",
+		"returnType" ],
+	"name" : "DoWebClient",
+	"pools" : [
+		 ],
+	"super" : "ZnClient",
+	"type" : "normal" }

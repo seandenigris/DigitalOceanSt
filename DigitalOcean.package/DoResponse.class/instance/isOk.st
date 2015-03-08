@@ -1,0 +1,4 @@
+testing
+isOk
+
+	^ status = 'OK' 

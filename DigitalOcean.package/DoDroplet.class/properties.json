@@ -1,0 +1,24 @@
+{
+	"category" : "DigitalOcean-Domain",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SeanDeNigris 4/9/2014 16:59",
+	"instvars" : [
+		"privateIpAddress",
+		"id",
+		"regionId",
+		"name",
+		"ipAddress",
+		"createdAt",
+		"imageId",
+		"sizeId",
+		"status",
+		"locked",
+		"backupsActive" ],
+	"name" : "DoDroplet",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
